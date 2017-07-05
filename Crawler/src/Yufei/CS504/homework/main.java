@@ -4,8 +4,9 @@ package Yufei.CS504.homework;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.*;
-import java.util.ArrayList;
 import java.util.List;
+
+import static Yufei.CS504.homework.ErroLog.errInfo;
 
 public class main {
 
